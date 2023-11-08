@@ -320,7 +320,7 @@ a{
   }
 
   .serviceedit:hover{
-    background-color: white;
+    background-color: #b0bdf4;
   }
 
   /*--------------------------------------------------------------
@@ -432,7 +432,7 @@ a{
   }
   
   .contact .php-email-form button[type=submit]:hover {
-    background: white;
+    background: #46e7f9;
   }
   
   @keyframes animate-loading {
