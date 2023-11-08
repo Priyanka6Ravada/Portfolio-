@@ -144,18 +144,18 @@ margin-bottom: 35px;
       z-index: 1;
   }
   .single-footer-widget .copywrite-text a {
-      color:#feb000;
+      color:#d0bdf4;
       font-size: 1rem;
   }
   .single-footer-widget .copywrite-text a:hover,
   .single-footer-widget .copywrite-text a:focus {
-      color: #feb000;
+      color: #d0bdf4;
   }
   .single-footer-widget .widget-title {
       margin-bottom: 1.5rem;
   }
   .single-footer-widget .footer_menu li a {
-      color: #feb000;
+      color: #d0bdf4;
       margin-bottom: 1rem;
       display: block;
       font-size: 1rem;
@@ -230,10 +230,10 @@ margin-bottom: 35px;
     margin-bottom: 40px;
 }
 .name{
-  color:#feb000
+  color:#d0bdf4
 }
 h5{
-    color:bisque
+    color:#d0bdf4
 }
 
 a{
