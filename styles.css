@@ -51,7 +51,7 @@ margin-bottom: 35px;
   body{margin-top:20px;}
 
   footer{
-    background-color: white;
+    background-color: black;
   }
   .footer_area {
       position: relative;
@@ -189,7 +189,7 @@ margin-bottom: 35px;
   }
   .footer_social_area a:hover,
   .footer_social_area a:focus {
-      color: #feb000
+      color:#d0bdf4
   }
   
   @-webkit-keyframes bi-cycle {
