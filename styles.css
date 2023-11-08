@@ -223,7 +223,7 @@ margin-bottom: 35px;
     font-size: 18px;
     border-top: 1px solid rgba(255,255,255,0.4);
     text-align: center;
-    color:bisque;
+    color:white;
     }
 
 .getintouch{
@@ -320,7 +320,7 @@ a{
   }
 
   .serviceedit:hover{
-    background-color: bisque;
+    background-color: #b0bdf4;
   }
 
   /*--------------------------------------------------------------
@@ -411,7 +411,7 @@ a{
   
   .contact .php-email-form input:focus,
   .contact .php-email-form textarea:focus {
-    border-color: #feb000;
+    border-color: #d0bdf4;
   }
   
   .contact .php-email-form input {
@@ -432,7 +432,7 @@ a{
   }
   
   .contact .php-email-form button[type=submit]:hover {
-    background: #feb000;
+    background: #b0bdf4;
   }
   
   @keyframes animate-loading {
