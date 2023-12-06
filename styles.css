@@ -144,7 +144,7 @@ margin-bottom: 35px;
       z-index: 1;
   }
   .single-footer-widget .copywrite-text a {
-      color:#d0bdf4;
+      color:teal;
       font-size: 1rem;
   }
   .single-footer-widget .copywrite-text a:hover,
